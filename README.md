@@ -39,7 +39,7 @@ Installation
 
     Clone the repository:
 
-git clone https://github.com/yourusername/lookbook-app.git
+git clone
 cd lookbook-app
 
 Install dependencies:
